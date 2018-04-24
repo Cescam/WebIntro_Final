@@ -1,0 +1,88 @@
+*
+{
+
+	margin: 0;
+	padding: 0;
+
+	}
+
+header
+{
+	background-image: url(blackwood.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+.lunar
+{
+	background: rgb(0, 0, 0, 0);
+	height: 100px;
+}
+
+.lunar{
+	margin: 20px 100px;
+	height: 60px;
+}
+
+.menu {
+	float: right;
+	list-style: none;
+	margin: 50px;
+}
+.menu li{
+	display: inline-block;
+	margin: 10px 5px;
+
+}
+.menu li a{
+	text-decoration: none;
+	color: #ffffff;
+	padding: 5px 10px;
+	font-family: sans-serif;
+	letter-spacing: 3px;
+	border: 2px solid #ffffff;
+
+}
+.join{
+	position: relative;
+	text-align: center;
+	font-family: sans-serif;
+	color: #ffffff;
+	top: 100px;
+}	
+.join h1{
+	font-size: 100px;
+	margin: 55px;
+
+}	
+.join h2{
+	font-size: 20px;
+	margin: 25px;
+}
+	
+.join h3{
+	font-size: 30px;
+	margin: 25px;
+}
+
+.btn{
+	font-size: 18px;
+	letter-spacing: 2px;
+	margin: 5px;
+	padding: 7px 10px;
+	text-decoration: none;
+	border: 1px solid #ffffff;
+
+}	
+
+.btn1{
+	background: #ffffff;
+	color: #000000;
+}
+
+.btn2{
+	color: #ffffff;
+	
+}
+

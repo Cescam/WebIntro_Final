@@ -1,0 +1,195 @@
+*
+{
+
+	margin: 0;
+	padding: 5;
+
+	}
+
+header
+{
+	background-color: #ffffff;
+	
+}
+
+.MiamiGrill
+{
+	background: rgb(0, 0, 0, 0);
+	height: 100px;
+
+}
+
+.MiamiGrill{
+	margin: 1px 10px;
+	height: 80px;
+}
+
+.Hamburger {
+	float: right;
+	list-style: none;
+	margin: 15px;
+}
+.Hamburger li{
+	display: inline-block;
+	margin: 10px 5px;
+
+}
+.Hamburger li a{
+	text-decoration: none;
+	color: #df078c;
+	padding: 2px 8px;
+	font-family: Josefin Sans, sans-serif;
+	font-weight: bold;
+	letter-spacing: 1px;
+	
+	
+}
+
+.mother{
+	width: 1000px;
+	margin: 0 auto;
+	height: 600px;
+	background-color: #ebebeb;
+	border: 4px solid #ffffff;
+}
+
+a{
+	color: #ff69b4;
+}
+
+.mother a{
+	color:red;
+	font-size: 15pt;
+}
+.mother1{
+	width: 1000px;
+	margin: 0 auto;
+	height: 100px;
+	background-color: #ffffff;
+	border: 4px solid #ffffff;
+	font-family: Josefin Sans, sans-serif;
+    font-size: 18px;
+    text-align: center;
+
+}
+.fries{
+	width: 1000px;
+	margin: 0 auto;
+	font-family: Josefin Sans, sans-serif;
+    font-size: 12px;
+}
+
+.fries p{
+	width: 1000px;
+	margin: 0 auto;
+	font-family: Josefin Sans, sans-serif;
+    font-size: 18px;
+}
+
+.fries a{
+	width: 1000px;
+	margin: 0 auto;
+	font-family: Josefin Sans, sans-serif;
+    font-size: 18px;
+}
+
+
+.Burger{
+	width: 1000px;
+	margin: 0 auto;
+	font-family: Josefin Sans, sans-serif;
+    font-size: 20px;
+
+}
+
+.Burger p{
+	width: 1000px;
+	margin: 0 auto;
+	font-family: Josefin Sans, sans-serif;
+    font-size: 18px;
+}
+
+.Burger a{
+	width: 1000px;
+	margin: 0 auto;
+	font-family: Josefin Sans, sans-serif;
+    font-size: 18px;
+}
+.Burger h1{
+	text-decoration: none;
+	color: #df078c;
+	font-weight: bold;
+	text-align: center;
+	font-size: 65px;
+
+}
+#soda{
+	text-decoration: none;
+	color: #00a3b4;
+	font-style: italic;
+	text-align: center;
+	font-size: 20px;
+
+}
+#water{
+	text-decoration: none;
+	color: #000000;
+	text-align: center;
+	font-size: 16px;
+
+}
+.mother{
+	text-decoration: none;
+	color: #df078c;
+	font-weight: bold;
+	text-align: center;
+	font-size: 50px;
+
+}
+#child01{
+	text-decoration: none;
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+	font-size: 25px;
+
+
+}
+.DarkBottom{
+	background: #333333;
+	height: 50px;
+
+}
+
+}
+#child01{
+	text-decoration: none;
+	color: #000000;
+	font-weight: bold;
+	text-align: right;
+	font-size: 12px;
+
+}
+.break{
+	width: 1000px;
+	margin: 0 auto;
+	height: 500px;
+	background-color: #ffffff;
+
+
+}
+.break1{
+	width: 1000px;
+	margin: 0 auto;
+	font-family: Josefin Sans, sans-serif;
+    font-size: 16px;
+}
+
+}
+.locations{
+	width: 1000px;
+	margin: 0 auto;
+	font-family: Josefin Sans, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}

@@ -1,0 +1,158 @@
+*
+{
+
+	margin: 0;
+	padding: 5;
+
+	}
+
+header
+{
+	background-color: #ffffff;
+	
+}.MiamiGrill{
+	margin: 1px 10px;
+	height: 80px;
+}
+
+.Hamburger {
+	float: right;
+	list-style: none;
+	margin: 15px;
+}
+.Hamburger li{
+	display: inline-block;
+	margin: 10px 5px;
+
+}
+.Hamburger li a{
+	text-decoration: none;
+	color: #df078c;
+	padding: 2px 8px;
+	font-family: Josefin Sans, sans-serif;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+
+.Home1{
+	width: 600px;
+	margin: 0 auto;
+	background-color: #ebebeb;
+	color: #df078c;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+}	
+
+
+.Home1 h1 {
+	width: 600px;
+	margin: 0 auto;
+	background-color: #ebebeb;
+	color: #df078c;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+}	
+
+.Home1 h2 {
+	width: 600px;
+	margin: 0 auto;
+	background-color: #ebebeb;
+	color: #080000;
+	font-weight: bold;
+	text-align: center;
+	font-size: 20px;
+
+}	
+.Home1 h3 {
+	width: 600px;
+	margin: 0 auto;
+}	
+#Home01{
+	width: 600px;
+	text-decoration: none;
+	color: #000000;
+	text-align: center;
+	font-size: 25px;
+}
+
+.Home2{
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 10px;
+	padding: 5px
+}		
+	
+.test1{
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+	height: 350px;
+
+}
+.test01{
+	width: 600px;
+	margin: 0 auto;
+	font-family: Josefin Sans, sans-serif;
+    font-size: 12px;
+	padding: 5px
+}
+
+
+.Burger{
+	width: 600px;
+	margin: 0 auto;
+	font-family: Josefin Sans, sans-serif;
+
+}
+.Burger h1{
+	color: #df078c;
+	font-weight: bold;
+	text-align: center;
+	font-size: 40px;
+
+}
+
+#soda{
+	text-decoration: none;
+	color: #00a3b4;
+	font-style: italic;
+	text-align: center;
+	font-size: 15px;
+	padding: 5px;
+
+}
+#water{
+	text-decoration: none;
+	color: #000000;
+	text-align: justify;
+	font-size: 12px;
+	padding: 10px;
+}
+
+.fries{
+	width: 600px;
+	margin: 0 auto;
+}
+
+.fries p{
+	width: 600px;
+	margin: 0 auto;
+	font-family: Josefin Sans, sans-serif;
+    font-size: 12px;
+	padding-bottom: 10px;
+	
+}
+
+.fries1{
+	width: 600px;
+	margin: 0 auto;
+
+}
+.DarkBottom{
+	background: #333333;
+	height: 50px;
+		
+	}
